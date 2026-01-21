@@ -41,5 +41,5 @@ coding!
 - Teammate Maryann #5: [GitHub](https://github.com/mary1na-code) / [LinkedIn](https://www.linkedin.com/in/maryann-igwe-oruta-374309318)
 - Teammate Jenardo #6: [GitHub](https://github.com/Jzitam) / [LinkedIn](https://www.linkedin.com/in/jenardo-walker)
 
-   ...
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+
+
